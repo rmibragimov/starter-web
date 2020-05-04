@@ -16,3 +16,11 @@ Just fork repo to receive all of its toy content in you github repo
 
 ## Description
 This is just a toy repo to play with Git functionality
+
+## Smthelse
+
+Some more shit to add and play.
+
+## Finally
+
+Last toy string to play with different Git areas (working / stage / repo / remote repo)
