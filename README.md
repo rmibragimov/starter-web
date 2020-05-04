@@ -10,5 +10,9 @@ Sample website with plenty of files for demos
 
 Nothing interesting here -> just try to play with different git commands.
 
+## Installation
+
+Just fork repo to receive all of its toy content in you github repo
+
 ## Description
 This is just a toy repo to play with Git functionality
